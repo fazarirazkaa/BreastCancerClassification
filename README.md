@@ -1,4 +1,4 @@
-# Tugas Coding Humic
+# Breast Cancer Classification
 
 Proyek ini berisi implementasi klasifikasi citra USG kanker payudara menggunakan deep learning dengan dua model utama, yaitu DenseNet121 dan Xception. Notebook ini mencakup proses penggabungan dataset, preprocessing citra, training model, evaluasi performa, dan visualisasi interpretasi model menggunakan Grad-CAM.
 
